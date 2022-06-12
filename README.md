@@ -8,11 +8,6 @@
 - 🍩 A fun fact about me is that <b>I am a die-hard Mark Manson fan</b>
 <hr>
 
-![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
-
-<hr>
-
 ### Languages and Tools:
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -42,3 +37,8 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
+<hr>
+
+![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
+
