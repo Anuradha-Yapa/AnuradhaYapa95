@@ -62,6 +62,7 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaYapa95" alt="" /></p>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
