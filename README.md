@@ -61,7 +61,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaYapa95" alt="nishudissanayake" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaYapa95" alt="" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
