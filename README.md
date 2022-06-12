@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Anuradha Yapa 👻
-
-<!--
-**AnuradhaYapa95/AnuradhaYapa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishuDissanayake&color=brightgreen" alt="NishuDissanayake" /> </p>
 
 Here are some ideas to get you started:
 
@@ -15,3 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently an undergraduate of <b>NSBM Green University, Sri Lanka</b>
+- 🌱 I’m interested in <b>Desktop Applications Development</b>, <b>Web Development</b>, & <b>Project Management</b>
+- 👯 I’m looking to collaborate on <b>Open Source Projects</b> and <b>Commercial Projects</b>
