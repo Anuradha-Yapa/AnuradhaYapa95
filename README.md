@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anuradha Yapa 😍
+### Hi there 👋 I am Anuradha Yapa 👻
 
 <!--
 **AnuradhaYapa95/AnuradhaYapa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
