@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a Final-Year Software Engineering Undergraduate at <b>University of Plymouth, UK</b>
-- 🌱 I’m interested in <b>Desktop Applications Development</b>, <b>Web Development</b>, & <b>Project Management</b>
+- 🎓 I’m currently a Final-Year Software Engineering Undergraduate at <b>University of Plymouth, UK</b>
+- 🌱 I’m currently learning <b>MERN Stack Development</b>, & <b> IT Project Management</b>
 - 👯 I’m looking to collaborate on <b>Open Source Projects</b> and <b>Commercial Projects</b>
