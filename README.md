@@ -67,10 +67,10 @@
 </p>
 <hr>
 
-![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
+![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=dark)
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=dark)
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaYapa95" alt="" /></p>
