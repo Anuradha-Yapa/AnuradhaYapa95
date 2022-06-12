@@ -40,5 +40,7 @@
 <hr>
 
 ![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
+<hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaYapa95&layout=compact&langs_count=8&theme=light)
 
