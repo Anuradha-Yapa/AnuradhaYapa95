@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anuradha Yapa 👻
+### Hello there 👋 I am Anuradha Yapa 👻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuradhaYapa95&color=brightgreen" alt="NishuDissanayake" /> </p>
 <hr>
 
