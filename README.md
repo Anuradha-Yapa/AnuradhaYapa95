@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Anuradha Yapa 👻
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishuDissanayake&color=brightgreen" alt="NishuDissanayake" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuradhaYapa95&color=brightgreen" alt="NishuDissanayake" /> </p>
 
 Here are some ideas to get you started:
 
