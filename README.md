@@ -1,5 +1,5 @@
 ### Hello there 👋 I am Anuradha Yapa 👻
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuradhaYapa95&color=brightgreen" alt="NishuDissanayake" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuradhaYapa95&color=brightgreen" alt="" /> </p>
 <hr>
 
 - 🎓 I’m currently a Final-Year Software Engineering Undergraduate at <b>University of Plymouth, UK</b>
